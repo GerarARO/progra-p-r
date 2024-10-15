@@ -1,0 +1,30 @@
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\bin\Debug\Parcial EntityFramework.exe.config
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\bin\Debug\Parcial EntityFramework.exe
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\bin\Debug\Parcial EntityFramework.pdb
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.csproj.AssemblyReference.cache
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\obj\Debug\Parcial_EntityFramework.Form1.resources
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\obj\Debug\Parcial_EntityFramework.Properties.Resources.resources
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.csproj.GenerateResource.cache
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.exe
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.pdb
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marlo\source\repos\Parcial EntityFramework\Parcial EntityFramework\obj\Debug\Parcial .A34E4485.Up2Date
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\bin\Debug\Parcial EntityFramework.exe.config
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\bin\Debug\Parcial EntityFramework.exe
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\bin\Debug\Parcial EntityFramework.pdb
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.csproj.AssemblyReference.cache
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\obj\Debug\Parcial_EntityFramework.Form1.resources
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\obj\Debug\Parcial_EntityFramework.Properties.Resources.resources
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.csproj.GenerateResource.cache
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\obj\Debug\Parcial .A34E4485.Up2Date
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.exe
+C:\Users\marlo\source\repos\Parcial EntityFramework Eliminar\Parcial EntityFramework\obj\Debug\Parcial EntityFramework.pdb
